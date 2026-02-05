@@ -1,16 +1,23 @@
-## Hi there 👋
+Hi, I'm Bhumika Rai 👋  
 
-<!--
-**bhumika66/bhumika66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech in Computer Science (CGPA: 8.17)  
+💻 Aspiring Software Developer | ML & Backend Enthusiast  
 
-Here are some ideas to get you started:
+🧠 Areas of Interest:
+- Machine Learning
+- Backend Development
+- Web Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Technical Skills:
+- Python, Java, C++, JavaScript
+- Spring Boot, ReactJS, Streamlit
+- MySQL, Git, GitHub
+
+📌 Projects:
+- Stokify AI
+- SpendWise
+- VendorHub
+
+📫 Contact:
+- Email: bhumikarai4966@gmail.com
+- LinkedIn: linkedin.com/in/bhumika-rai-a69125311
